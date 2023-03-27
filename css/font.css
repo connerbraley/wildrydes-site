@@ -6,7 +6,7 @@
 }
 @font-face {
     font-family: "fairplex-wide";
-    font-style: normal;
-    font-weight: 700;
+    font-style: large;
+    font-weight: 500;
     src: url("../fonts/fairplex-wide-n7.woff") format("woff2");
 }
